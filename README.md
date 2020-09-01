@@ -14,3 +14,6 @@ Menu is present in text files in Menu folder and bills will be saved in text for
 * User can generate bill after selecting at least 1 item.
 * Order cancellation is also provided in this system.
 * Bill will be displayed in new window to user and will be saved in 'Bill Records' folder.
+
+
+## Future Scope -> Printing the bill with the bill machine
